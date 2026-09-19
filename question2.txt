@@ -1,1 +1,1 @@
-
+Encapsulation is an Object-Oriented Programming concept where data and the methods that operate on that data are kept together inside a class, while restricting direct access to some of the data.
